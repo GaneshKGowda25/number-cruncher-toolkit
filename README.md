@@ -45,5 +45,5 @@ This project is perfect for students, data enthusiasts, and engineers exploring 
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/Number-Cruncher-Toolkit.git
+git clone https://github.com/GaneshKGowda25/Number-Cruncher-Toolkit.git
 cd Number-Cruncher-Toolkit
